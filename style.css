@@ -1,0 +1,8 @@
+body{
+    background-image:url("weather1.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    text-align: center;
+}
